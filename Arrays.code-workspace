@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Arrays"
+		},
+		{
+			"path": "Funciones"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Funciones"
+	}
+}
